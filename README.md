@@ -29,7 +29,7 @@
   <div>4</div>
 </div>
 
-<p>All direct children of a flexible container becomes flexible items.</p>
+<p> </p>
 
 </body>
 </html>
